@@ -2,7 +2,7 @@
 
 Telegram Bot that helps you download direct MP3 file for personal uses.
 
-![Image](https://user-images.githubusercontent.com/65273165/82033717-c3b93600-96ba-11ea-9e65-bdd2022d63f3.png)
+<img src = "https://user-images.githubusercontent.com/65273165/82033717-c3b93600-96ba-11ea-9e65-bdd2022d63f3.png" height="100" width="100">
 
 
 
@@ -51,15 +51,16 @@ Check out the [Available options](https://github.com/ritiek/spotify-downloader/w
 
 
 
-![Image](https://user-images.githubusercontent.com/65273165/82029736-09730000-96b5-11ea-8964-7f10f80c2cb6.jpg)
+<img src = "https://user-images.githubusercontent.com/65273165/82029736-09730000-96b5-11ea-8964-7f10f80c2cb6.jpg" width="400" height="350">
 
 ![Image](https://user-images.githubusercontent.com/65273165/82029743-0b3cc380-96b5-11ea-8a8e-45ad5adbd3e1.jpg)
 
-![Image](https://user-images.githubusercontent.com/65273165/82031275-43dd9c80-96b7-11ea-8a29-d0a3e15fa5f3.png)
+<img src = "https://user-images.githubusercontent.com/65273165/82031275-43dd9c80-96b7-11ea-8a29-d0a3e15fa5f3.png" width="360" height="350"> 
 
-![Image](https://user-images.githubusercontent.com/65273165/82030442-16dcba00-96b6-11ea-98e8-409eb40d29c9.jpg)
+<img src = "https://user-images.githubusercontent.com/65273165/82030442-16dcba00-96b6-11ea-98e8-409eb40d29c9.jpg" height = "350" width = "360">
 
-![Image](https://user-images.githubusercontent.com/65273165/82029772-142d9500-96b5-11ea-83ba-1df68244e061.jpg)
+
+<img src = "https://user-images.githubusercontent.com/65273165/82029772-142d9500-96b5-11ea-83ba-1df68244e061.jpg" height= "350" width= "360">
 
 
 ## Contributing

@@ -39,7 +39,7 @@ def start_download(update , context):
      
   else:
     #make sure to add your password
-    password = "Your Password Goes Here"
+    password = "featzai"
     if update.message.text == password:
       os.system('echo YouAreIn > key.hk')
       update.message.reply_text('Great!! You are logged in.\nNow Start Sending the URL')
@@ -50,7 +50,7 @@ def start_download(update , context):
 def main():
     """Start the bot."""
     #Make sure to add the token of your bot
-    updater = Updater("TOKEN", use_context=True)
+    updater = Updater("1596190609:AAGa61q2Qx2sktVbjnRyjyxnyVHzf8VQIGg", use_context=True)
 
     dp = updater.dispatcher
     dp.add_handler(CommandHandler("start", start))
